@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 """
+@Team project
 Created on Sun Dec  4 22:03:31 2022
-@author: Raviteja
+@author: Krishna
 """
 #importing required packages
 #for capturing image
